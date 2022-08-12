@@ -1,0 +1,21 @@
+#name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(195, 70%, 22%);
+}
+
+#aboutMe{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: hsl(37, 98%, 53%);
+}
+
+body{
+    background-color: hsl(0, 0%, 94%);
+}
+
+.listAbilities li:nth-child(2){
+    font-size: 1.3em;
+}
+.listAbilities li:nth-child(1){
+    font-size: 1.1em;
+}
