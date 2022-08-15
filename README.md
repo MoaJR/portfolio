@@ -11,3 +11,8 @@ Deixarei aqui a evolução deste portfólio:
 #### Versão 3.2 - CSS Básico
 
 ![image](https://user-images.githubusercontent.com/99083242/184352465-66606227-df82-46cd-91df-1d29f3a81d31.png)
+
+
+#### Versão 3.3 - Alinhamento e uso de Box Model
+
+![image](https://user-images.githubusercontent.com/99083242/184658906-15f426c2-d051-434c-aaa1-64f345ba9781.png)
