@@ -9,6 +9,10 @@
     color: hsl(37, 98%, 53%);
 }
 
+.photo{
+    border-radius: 50%;
+}
+
 body{
     background-color: hsl(0, 0%, 94%);
 }
@@ -18,4 +22,25 @@ body{
 }
 .listAbilities li:nth-child(1){
     font-size: 1.1em;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.photoContainer{
+    display: flex;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.rightSide{
+    margin-left: 40px;
 }
